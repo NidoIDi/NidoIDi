@@ -7,7 +7,7 @@ name: Dashboard
 
 on:
   schedule:
-    - cron: '0 5 * * *' # 06:00/07:00 en Madrid según horario de verano
+    - cron: '0 */6 * * *' # cada 6 horas
   workflow_dispatch:
 
 permissions:
@@ -26,11 +26,11 @@ jobs:
 
       - name: Publicar si hay cambios
         run: |
-          if ! git diff --quiet README.md; then
+          git add README.md assets/*.svg
+          if ! git diff --cached --quiet; then
             git config user.name "dashboard-bot"
             git config user.email "actions@github.com"
-            git add README.md
-            git commit -m "chore: dashboard $(date -u +%F)"
+            git commit -m "chore: dashboard $(date -u '+%F %H:%M')"
             git push
           else
             echo "Sin cambios que publicar."

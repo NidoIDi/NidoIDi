@@ -23,6 +23,16 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 | 📣 **[El Altavoz](https://elaltavoz.app)**<br><sub>El chat del ecosistema</sub> | 🎯 **[focus360°](https://focus360o.app)**<br><sub>El panel de administración</sub> | 💼 **[Labora-e](https://labora-e.com)**<br><sub>La plataforma laboral</sub> |
 | 🔳 **[QR Solutions](https://qractivos.netlify.app)**<br><sub>Códigos QR para activos y espacios</sub> | 🎓 **[CoeYDuca](https://coeduca.netlify.app)**<br><sub>App web del ecosistema</sub> | 🪺 **[nidodeideas.es](https://nidodeideas.es)**<br><sub>La web corporativa</sub> |
 
+## 📈 Actividad
+
+<div align="center">
+
+![Commits por semana](assets/actividad-semanal.svg)
+
+![Commits por proyecto](assets/actividad-repos.svg)
+
+</div>
+
 ## 📊 Cuadro de mando
 
 <!-- DASHBOARD:START -->
@@ -45,7 +55,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente: **lunes, 24 de agosto de 2026, 4:46** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **lunes, 24 de agosto de 2026, 4:52** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
