@@ -14,6 +14,11 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 
 const TOKEN = process.env.DASHBOARD_TOKEN || process.env.GITHUB_TOKEN;
+if (!TOKEN) {
+  console.log('Falta el secreto DASHBOARD_TOKEN — no toco el README. ' +
+    'Créalo en Settings → Secrets and variables → Actions del repo NidoIDi/NidoIDi.');
+  process.exit(0);
+}
 const CUENTA = 'NidoIDi';
 const ZONA = 'Europe/Madrid';
 
