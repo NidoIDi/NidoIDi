@@ -1,0 +1,37 @@
+# Regenera el dashboard del perfil cada mañana (y a mano desde la pestaña
+# Actions con "Run workflow"). Necesita el secreto DASHBOARD_TOKEN: un token
+# con permiso de lectura sobre los repos privados de la cuenta — el
+# GITHUB_TOKEN de Actions solo ve este repo, así que sin él el script no
+# escribe nada (para no vaciar la tabla).
+name: Dashboard
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # 06:00/07:00 en Madrid según horario de verano
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerar dashboard
+        run: node scripts/actualizar-dashboard.mjs
+        env:
+          DASHBOARD_TOKEN: ${{ secrets.DASHBOARD_TOKEN }}
+
+      - name: Publicar si hay cambios
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name "dashboard-bot"
+            git config user.email "actions@github.com"
+            git add README.md
+            git commit -m "chore: dashboard $(date -u +%F)"
+            git push
+          else
+            echo "Sin cambios que publicar."
+          fi
