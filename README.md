@@ -55,7 +55,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **viernes, 28 de agosto de 2026, 10:16** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **viernes, 28 de agosto de 2026, 23:37** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
