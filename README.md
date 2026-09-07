@@ -44,7 +44,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 | 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟢 hoy | 07 sept 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
 | 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟢 hoy | 07 sept 2026 | [abrir ↗](https://focus360o.app) | — |
 | 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟢 hoy | 07 sept 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
-| 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | 🟠 hace 7 días | 30 ago 2026 | — | — |
+| 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | 🟠 hace 8 días | 30 ago 2026 | — | — |
 | 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | 🟠 hace 12 días | 26 ago 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
 | 🪺 **[nidodeideas-web](https://github.com/NidoIDi/nidodeideas-web)** | nidodeideas.es — web corporativa de Nido de Ideas Avanzadas | 🟠 hace 12 días | 26 ago 2026 | [abrir ↗](https://nidodeideas.es) | — |
 | 🌐 **[andisa-web](https://github.com/NidoIDi/andisa-web)** | Web de Andisa | 🟠 hace 12 días | 26 ago 2026 | — | — |
@@ -55,7 +55,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **lunes, 7 de septiembre de 2026, 13:11** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **lunes, 7 de septiembre de 2026, 18:57** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
