@@ -44,7 +44,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 | 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟢 hoy | 08 sept 2026 | [abrir ↗](https://elaltavoz.app) | — |
 | 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟢 hoy | 08 sept 2026 | [abrir ↗](https://focus360o.app) | — |
 | 🛠️ **[Manten.App](https://github.com/NidoIDi/Manten.App)** | MantenApp — activos, operaciones, tareas y finanzas para pymes | 🟢 hoy | 08 sept 2026 | [abrir ↗](https://panel.manten.app) | — |
-| 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | 🟠 hace 8 días | 30 ago 2026 | — | — |
+| 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | 🟠 hace 9 días | 30 ago 2026 | — | — |
 | 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | 🟠 hace 13 días | 26 ago 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
 | 🪺 **[nidodeideas-web](https://github.com/NidoIDi/nidodeideas-web)** | nidodeideas.es — web corporativa de Nido de Ideas Avanzadas | 🟠 hace 13 días | 26 ago 2026 | [abrir ↗](https://nidodeideas.es) | — |
 | 🌐 **[andisa-web](https://github.com/NidoIDi/andisa-web)** | Web de Andisa | 🟠 hace 13 días | 26 ago 2026 | — | — |
@@ -55,7 +55,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **martes, 8 de septiembre de 2026, 17:45** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **martes, 8 de septiembre de 2026, 22:32** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
