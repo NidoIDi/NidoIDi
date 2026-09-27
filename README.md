@@ -46,7 +46,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 | 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟡 hace 4 días | 23 sept 2026 | [abrir ↗](https://focus360o.app) | — |
 | 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | 🟡 hace 5 días | 22 sept 2026 | — | — |
 | 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | 🟡 hace 6 días | 21 sept 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
-| 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | 🟠 hace 3 semanas | 30 ago 2026 | — | — |
+| 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | 🟠 hace 4 semanas | 30 ago 2026 | — | — |
 | 🪺 **[nidodeideas-web](https://github.com/NidoIDi/nidodeideas-web)** | nidodeideas.es — web corporativa de Nido de Ideas Avanzadas | ⚪ hace 4 semanas | 26 ago 2026 | [abrir ↗](https://nidodeideas.es) | — |
 | 🌐 **[andisa-web](https://github.com/NidoIDi/andisa-web)** | Web de Andisa | ⚪ hace 4 semanas | 26 ago 2026 | — | — |
 | 💼 **[labora_e](https://github.com/NidoIDi/labora_e)** | Labora-e — plataforma laboral del ecosistema Nido | ⚪ hace 4 semanas | 26 ago 2026 | [abrir ↗](https://labora-e.com) | — |
@@ -55,7 +55,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **domingo, 27 de septiembre de 2026, 18:07** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **domingo, 27 de septiembre de 2026, 22:39** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
