@@ -40,23 +40,23 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 |---|---|:---:|---|:---:|:---:|
 | 🛠️ **[Manten.App](https://github.com/NidoIDi/Manten.App)** | MantenApp — activos, operaciones, tareas y finanzas para pymes | 🟢 hoy | 30 sept 2026 | [abrir ↗](https://panel.manten.app) | — |
 | 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟢 hoy | 30 sept 2026 | [abrir ↗](https://focus360o.app) | — |
-| 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | 🟢 hoy | 29 sept 2026 | — | — |
+| 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | 🟢 ayer | 29 sept 2026 | — | — |
 | 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | 🟡 hace 2 días | 28 sept 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
-| 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟡 hace 6 días | 23 sept 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
-| 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟡 hace 6 días | 23 sept 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
-| 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟡 hace 6 días | 23 sept 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
-| 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟡 hace 6 días | 23 sept 2026 | [abrir ↗](https://elaltavoz.app) | — |
-| 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | 🟠 hace 7 días | 22 sept 2026 | — | — |
+| 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟠 hace 7 días | 23 sept 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
+| 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟠 hace 7 días | 23 sept 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
+| 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟠 hace 7 días | 23 sept 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
+| 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟠 hace 7 días | 23 sept 2026 | [abrir ↗](https://elaltavoz.app) | — |
+| 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | 🟠 hace 8 días | 22 sept 2026 | — | — |
 | 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | ⚪ hace 4 semanas | 30 ago 2026 | — | — |
-| 🪺 **[nidodeideas-web](https://github.com/NidoIDi/nidodeideas-web)** | nidodeideas.es — web corporativa de Nido de Ideas Avanzadas | ⚪ hace 4 semanas | 26 ago 2026 | [abrir ↗](https://nidodeideas.es) | — |
-| 🌐 **[andisa-web](https://github.com/NidoIDi/andisa-web)** | Web de Andisa | ⚪ hace 4 semanas | 26 ago 2026 | — | — |
-| 💼 **[labora_e](https://github.com/NidoIDi/labora_e)** | Labora-e — plataforma laboral del ecosistema Nido | ⚪ hace 4 semanas | 26 ago 2026 | [abrir ↗](https://labora-e.com) | — |
-| 🗺️ **[mantenapp-mapa](https://github.com/NidoIDi/mantenapp-mapa)** | Mapa de activos de MantenApp | ⚪ hace 4 semanas | 26 ago 2026 | — | — |
-| 🏢 **[mis-espacios](https://github.com/NidoIDi/mis-espacios)** | Mis Espacios | ⚪ hace 4 semanas | 26 ago 2026 | — | — |
+| 🪺 **[nidodeideas-web](https://github.com/NidoIDi/nidodeideas-web)** | nidodeideas.es — web corporativa de Nido de Ideas Avanzadas | ⚪ hace 5 semanas | 26 ago 2026 | [abrir ↗](https://nidodeideas.es) | — |
+| 🌐 **[andisa-web](https://github.com/NidoIDi/andisa-web)** | Web de Andisa | ⚪ hace 5 semanas | 26 ago 2026 | — | — |
+| 💼 **[labora_e](https://github.com/NidoIDi/labora_e)** | Labora-e — plataforma laboral del ecosistema Nido | ⚪ hace 5 semanas | 26 ago 2026 | [abrir ↗](https://labora-e.com) | — |
+| 🗺️ **[mantenapp-mapa](https://github.com/NidoIDi/mantenapp-mapa)** | Mapa de activos de MantenApp | ⚪ hace 5 semanas | 26 ago 2026 | — | — |
+| 🏢 **[mis-espacios](https://github.com/NidoIDi/mis-espacios)** | Mis Espacios | ⚪ hace 5 semanas | 26 ago 2026 | — | — |
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **miércoles, 30 de septiembre de 2026, 5:17** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **miércoles, 30 de septiembre de 2026, 13:40** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
