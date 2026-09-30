@@ -38,8 +38,8 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 <!-- DASHBOARD:START -->
 | Proyecto | Descripción | Actividad | Último push | Web | Deploy |
 |---|---|:---:|---|:---:|:---:|
-| 🛠️ **[Manten.App](https://github.com/NidoIDi/Manten.App)** | MantenApp — activos, operaciones, tareas y finanzas para pymes | 🟢 hoy | 30 sept 2026 | [abrir ↗](https://panel.manten.app) | — |
 | 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟢 hoy | 30 sept 2026 | [abrir ↗](https://focus360o.app) | — |
+| 🛠️ **[Manten.App](https://github.com/NidoIDi/Manten.App)** | MantenApp — activos, operaciones, tareas y finanzas para pymes | 🟢 hoy | 30 sept 2026 | [abrir ↗](https://panel.manten.app) | — |
 | 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | 🟢 ayer | 29 sept 2026 | — | — |
 | 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | 🟡 hace 2 días | 28 sept 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
 | 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟠 hace 7 días | 23 sept 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
@@ -56,7 +56,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **miércoles, 30 de septiembre de 2026, 13:40** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **miércoles, 30 de septiembre de 2026, 19:20** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
