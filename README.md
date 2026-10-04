@@ -44,9 +44,9 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 | 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟡 hace 2 días | 01 oct 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
 | 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟡 hace 2 días | 01 oct 2026 | [abrir ↗](https://focus360o.app) | — |
 | 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟡 hace 2 días | 01 oct 2026 | [abrir ↗](https://elaltavoz.app) | — |
-| 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | 🟡 hace 4 días | 29 sept 2026 | — | — |
+| 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | 🟡 hace 5 días | 29 sept 2026 | — | — |
 | 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | 🟡 hace 6 días | 28 sept 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
-| 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | 🟠 hace 11 días | 22 sept 2026 | — | — |
+| 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | 🟠 hace 12 días | 22 sept 2026 | — | — |
 | 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | ⚪ hace 4 semanas | 30 ago 2026 | — | — |
 | 🪺 **[nidodeideas-web](https://github.com/NidoIDi/nidodeideas-web)** | nidodeideas.es — web corporativa de Nido de Ideas Avanzadas | ⚪ hace 5 semanas | 26 ago 2026 | [abrir ↗](https://nidodeideas.es) | — |
 | 🌐 **[andisa-web](https://github.com/NidoIDi/andisa-web)** | Web de Andisa | ⚪ hace 5 semanas | 26 ago 2026 | — | — |
@@ -56,7 +56,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **domingo, 4 de octubre de 2026, 5:37** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **domingo, 4 de octubre de 2026, 13:35** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
