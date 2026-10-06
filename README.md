@@ -39,12 +39,12 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 | Proyecto | Descripción | Actividad | Último push | Web | Deploy |
 |---|---|:---:|---|:---:|:---:|
 | 🛠️ **[Manten.App](https://github.com/NidoIDi/Manten.App)** | MantenApp — activos, operaciones, tareas y finanzas para pymes | 🟢 hoy | 06 oct 2026 | [abrir ↗](https://panel.manten.app) | — |
-| 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟢 hoy | 05 oct 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
-| 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟢 hoy | 05 oct 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
-| 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟢 hoy | 05 oct 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
-| 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟢 hoy | 05 oct 2026 | [abrir ↗](https://elaltavoz.app) | — |
-| 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟢 hoy | 05 oct 2026 | [abrir ↗](https://focus360o.app) | — |
-| 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | 🟡 hace 6 días | 29 sept 2026 | — | — |
+| 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟢 ayer | 05 oct 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
+| 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟢 ayer | 05 oct 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
+| 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟢 ayer | 05 oct 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
+| 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟢 ayer | 05 oct 2026 | [abrir ↗](https://elaltavoz.app) | — |
+| 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟢 ayer | 05 oct 2026 | [abrir ↗](https://focus360o.app) | — |
+| 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | 🟠 hace 7 días | 29 sept 2026 | — | — |
 | 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | 🟠 hace 8 días | 28 sept 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
 | 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | 🟠 hace 2 semanas | 22 sept 2026 | — | — |
 | 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | ⚪ hace 5 semanas | 30 ago 2026 | — | — |
@@ -56,7 +56,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **martes, 6 de octubre de 2026, 6:07** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **martes, 6 de octubre de 2026, 14:31** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
