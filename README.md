@@ -42,9 +42,9 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 | 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟢 hoy | 29 oct 2026 | [abrir ↗](https://focus360o.app) | — |
 | 📦 **[laborae2](https://github.com/NidoIDi/laborae2)** | Labora-e 2.0 — control horario y RRHH del ecosistema Nido (React + Supabase + Capacitor) | 🟢 hoy | 29 oct 2026 | — | — |
 | 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟢 hoy | 29 oct 2026 | [abrir ↗](https://elaltavoz.app) | — |
-| 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟠 hace 10 días | 19 oct 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
-| 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟠 hace 10 días | 19 oct 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
-| 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟠 hace 10 días | 19 oct 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
+| 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟠 hace 11 días | 19 oct 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
+| 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟠 hace 11 días | 19 oct 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
+| 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟠 hace 11 días | 19 oct 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
 | 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | ⚪ hace 4 semanas | 29 sept 2026 | — | — |
 | 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | ⚪ hace 4 semanas | 28 sept 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
 | 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | ⚪ hace 5 semanas | 22 sept 2026 | — | — |
@@ -57,7 +57,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **viernes, 30 de octubre de 2026, 4:47** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **viernes, 30 de octubre de 2026, 12:55** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
