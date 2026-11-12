@@ -38,9 +38,9 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 <!-- DASHBOARD:START -->
 | Proyecto | Descripción | Actividad | Último push | Web | Deploy |
 |---|---|:---:|---|:---:|:---:|
+| 📦 **[laborae2](https://github.com/NidoIDi/laborae2)** | Labora-e 2.0 — control horario y RRHH del ecosistema Nido (React + Supabase + Capacitor) | 🟢 hoy | 12 nov 2026 | — | — |
 | 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟢 hoy | 12 nov 2026 | [abrir ↗](https://elaltavoz.app) | — |
 | 🛠️ **[Manten.App](https://github.com/NidoIDi/Manten.App)** | MantenApp — activos, operaciones, tareas y finanzas para pymes | 🟢 hoy | 12 nov 2026 | [abrir ↗](https://panel.manten.app) | — |
-| 📦 **[laborae2](https://github.com/NidoIDi/laborae2)** | Labora-e 2.0 — control horario y RRHH del ecosistema Nido (React + Supabase + Capacitor) | 🟢 hoy | 12 nov 2026 | — | — |
 | 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟢 ayer | 11 nov 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
 | 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟢 ayer | 11 nov 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
 | 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟢 ayer | 11 nov 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
@@ -57,7 +57,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **jueves, 12 de noviembre de 2026, 15:23** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **viernes, 13 de noviembre de 2026, 0:01** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
