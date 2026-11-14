@@ -38,7 +38,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 <!-- DASHBOARD:START -->
 | Proyecto | Descripción | Actividad | Último push | Web | Deploy |
 |---|---|:---:|---|:---:|:---:|
-| 📦 **[laborae2](https://github.com/NidoIDi/laborae2)** | Labora-e 2.0 — control horario y RRHH del ecosistema Nido (React + Supabase + Capacitor) | 🟢 hoy | 13 nov 2026 | — | — |
+| 📦 **[laborae2](https://github.com/NidoIDi/laborae2)** | Labora-e 2.0 — control horario y RRHH del ecosistema Nido (React + Supabase + Capacitor) | 🟢 ayer | 13 nov 2026 | — | — |
 | 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟢 ayer | 12 nov 2026 | [abrir ↗](https://elaltavoz.app) | — |
 | 🛠️ **[Manten.App](https://github.com/NidoIDi/Manten.App)** | MantenApp — activos, operaciones, tareas y finanzas para pymes | 🟢 ayer | 12 nov 2026 | [abrir ↗](https://panel.manten.app) | — |
 | 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟡 hace 2 días | 11 nov 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
@@ -57,7 +57,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **sábado, 14 de noviembre de 2026, 0:05** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **sábado, 14 de noviembre de 2026, 5:21** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
