@@ -46,7 +46,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 | 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟡 hace 4 días | 11 nov 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
 | 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟡 hace 4 días | 11 nov 2026 | [abrir ↗](https://focus360o.app) | — |
 | 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | ⚪ hace 6 semanas | 29 sept 2026 | — | — |
-| 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | ⚪ hace 6 semanas | 28 sept 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
+| 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | ⚪ hace 7 semanas | 28 sept 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
 | 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | ⚪ hace 7 semanas | 22 sept 2026 | — | — |
 | 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | ⚪ hace 2 meses | 30 ago 2026 | — | — |
 | 🪺 **[nidodeideas-web](https://github.com/NidoIDi/nidodeideas-web)** | nidodeideas.es — web corporativa de Nido de Ideas Avanzadas | ⚪ hace 2 meses | 26 ago 2026 | [abrir ↗](https://nidodeideas.es) | — |
@@ -57,7 +57,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **domingo, 15 de noviembre de 2026, 23:20** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **lunes, 16 de noviembre de 2026, 5:04** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
