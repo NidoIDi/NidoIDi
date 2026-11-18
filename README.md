@@ -38,13 +38,13 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 <!-- DASHBOARD:START -->
 | Proyecto | Descripción | Actividad | Último push | Web | Deploy |
 |---|---|:---:|---|:---:|:---:|
-| 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟢 hoy | 17 nov 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
-| 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟢 hoy | 17 nov 2026 | [abrir ↗](https://elaltavoz.app) | — |
-| 📦 **[laborae2](https://github.com/NidoIDi/laborae2)** | Labora-e 2.0 — control horario y RRHH del ecosistema Nido (React + Supabase + Capacitor) | 🟢 hoy | 17 nov 2026 | — | — |
-| 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟢 hoy | 17 nov 2026 | [abrir ↗](https://focus360o.app) | — |
-| 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟢 hoy | 17 nov 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
-| 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟢 hoy | 17 nov 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
-| 🛠️ **[Manten.App](https://github.com/NidoIDi/Manten.App)** | MantenApp — activos, operaciones, tareas y finanzas para pymes | 🟢 hoy | 17 nov 2026 | [abrir ↗](https://panel.manten.app) | — |
+| 🔳 **[QrActivos](https://github.com/NidoIDi/QrActivos)** | QR Solutions — códigos QR para activos y espacios | 🟢 ayer | 17 nov 2026 | [abrir ↗](https://qractivos.netlify.app) | — |
+| 📣 **[el-altavoz](https://github.com/NidoIDi/el-altavoz)** | El Altavoz — el chat del ecosistema Nido: equipos, clientes y soporte | 🟢 ayer | 17 nov 2026 | [abrir ↗](https://elaltavoz.app) | — |
+| 📦 **[laborae2](https://github.com/NidoIDi/laborae2)** | Labora-e 2.0 — control horario y RRHH del ecosistema Nido (React + Supabase + Capacitor) | 🟢 ayer | 17 nov 2026 | — | — |
+| 🎯 **[focus360](https://github.com/NidoIDi/focus360)** | focus360° — panel de administración del ecosistema Nido | 🟢 ayer | 17 nov 2026 | [abrir ↗](https://focus360o.app) | — |
+| 🔧 **[mis_partes](https://github.com/NidoIDi/mis_partes)** | Partes de trabajo con firmas digitales — React + Supabase (web, iOS y Android) | 🟢 ayer | 17 nov 2026 | [abrir ↗](https://mis-partes.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/c8637da5-5ec3-47d4-bde3-ffc0f4ebc743/deploy-status)](https://app.netlify.com/projects) |
+| 📝 **[Mis_Actas](https://github.com/NidoIDi/Mis_Actas)** | Actas de reuniones con firma digital, quórum e informe PDF — React + Supabase | 🟢 ayer | 17 nov 2026 | [abrir ↗](https://misactas.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/895d053f-02e8-4082-a6bb-1c9fdb033317/deploy-status)](https://app.netlify.com/projects) |
+| 🛠️ **[Manten.App](https://github.com/NidoIDi/Manten.App)** | MantenApp — activos, operaciones, tareas y finanzas para pymes | 🟢 ayer | 17 nov 2026 | [abrir ↗](https://panel.manten.app) | — |
 | 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | ⚪ hace 7 semanas | 29 sept 2026 | — | — |
 | 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | ⚪ hace 7 semanas | 28 sept 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
 | 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | ⚪ hace 8 semanas | 22 sept 2026 | — | — |
@@ -57,7 +57,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **miércoles, 18 de noviembre de 2026, 1:17** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **miércoles, 18 de noviembre de 2026, 15:52** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
