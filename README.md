@@ -47,7 +47,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 | 📦 **[laborae2](https://github.com/NidoIDi/laborae2)** | Labora-e 2.0 — control horario y RRHH del ecosistema Nido (React + Supabase + Capacitor) | 🟢 ayer | 19 nov 2026 | — | — |
 | 📦 **[siloe2](https://github.com/NidoIDi/siloe2)** | — | ⚪ hace 7 semanas | 29 sept 2026 | — | — |
 | 🎓 **[CoeYDuca](https://github.com/NidoIDi/CoeYDuca)** | CoeYDuca — app web del ecosistema Nido | ⚪ hace 7 semanas | 28 sept 2026 | [abrir ↗](https://coeduca.netlify.app) | [![Netlify](https://api.netlify.com/api/v1/badges/1b728c08-95e2-477a-b7f8-32a5d7efea25/deploy-status)](https://app.netlify.com/projects) |
-| 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | ⚪ hace 8 semanas | 22 sept 2026 | — | — |
+| 🧪 **[MVPPaisVasco](https://github.com/NidoIDi/MVPPaisVasco)** | MVP País Vasco | ⚪ hace 2 meses | 22 sept 2026 | — | — |
 | 🌾 **[siloe](https://github.com/NidoIDi/siloe)** | SILO-E — sitio web | ⚪ hace 2 meses | 30 ago 2026 | — | — |
 | 🪺 **[nidodeideas-web](https://github.com/NidoIDi/nidodeideas-web)** | nidodeideas.es — web corporativa de Nido de Ideas Avanzadas | ⚪ hace 2 meses | 26 ago 2026 | [abrir ↗](https://nidodeideas.es) | — |
 | 🌐 **[andisa-web](https://github.com/NidoIDi/andisa-web)** | Web de Andisa | ⚪ hace 2 meses | 26 ago 2026 | — | — |
@@ -57,7 +57,7 @@ gestión de mantenimiento, partes de trabajo, actas con firma digital, chat de e
 
 **Leyenda:** 🟢 activo (≤ 2 días) · 🟡 esta semana · 🟠 este mes · ⚪ en reposo
 
-<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **sábado, 21 de noviembre de 2026, 0:31** (hora de Madrid)</sub>
+<sub>🔄 Actualizado automáticamente cada 6 horas · Última vez: **sábado, 21 de noviembre de 2026, 5:59** (hora de Madrid)</sub>
 <!-- DASHBOARD:END -->
 
 ---
